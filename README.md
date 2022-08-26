@@ -1,4 +1,4 @@
 # eShopper
 Staj döneminde geliştirdiğim E-Ticaret projesi
 <hr/>
-![Alt text](/posts/path/to/img.jpg "Optional title")
+<img src="/path/to/img.jpg" alt="Alt text" title="Optional title">
